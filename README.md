@@ -1,7 +1,7 @@
 ## MarkSix - Banana-Translator, Made with JavaScript.
    
    
-It is developed using HTML, CSS, and JavaScript, [live demo ]() hosted on netlify.
+It is developed using HTML, CSS, and JavaScript, [live demo ](https://minion-translate-neogcamp.netlify.app/) hosted on netlify.
 
 #### Function/API Used
 - fetch : for taking user input on CLI
